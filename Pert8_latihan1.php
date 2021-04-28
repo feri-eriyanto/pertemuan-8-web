@@ -6,7 +6,7 @@
 <body>
 <?php
 
-// nama : NOfian Afrizal
+// nama : Feri Eriyanto
 // kelas : 06TPLE012
 
 function basic($argument)
