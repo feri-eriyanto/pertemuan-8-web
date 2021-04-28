@@ -11,7 +11,7 @@ Masukkan Bilangan Kedua : <br>
 <!membandingkan 2 buah bilangan yang diinput>
 <?
 
-// Nama : Nofian Afrizal
+// Nama : Feri Eriyanto
 // Kelas : 06TPLE012
 
 $a=$_POST["A"];
